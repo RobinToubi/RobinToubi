@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 #### Deployed apps
 - **[esportdle](https://github.com/RobinToubi/esportdle)**: A guess the player game based on lolesport's players database
 
-☕ Have a good day !
+🌈 Have a good day !
 
 ![brent rambo thumbs up](./brent_rambo.gif)
